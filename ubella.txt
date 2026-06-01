@@ -1,0 +1,214 @@
+Create a premium, modern, visually stunning one-page static website for a beverage startup called UBELLA.
+IMPORTANT:
+The website should have the same premium energy, clean layout, storytelling flow, bold product presentation, modern typography, and lifestyle branding approach as PerfectTed, but completely redesigned around UBELLA's identity, products, and purple theme.
+Brand Name:
+UBELLA
+Tagline:
+Own The Purple.
+Brand Positioning:
+UBELLA is building the world's leading Ube beverage brand, transforming an underexplored purple superfood into a global lifestyle category through premium functional drinks.
+Design Style:
+Premium consumer brand
+Apple-level clean design
+Modern startup aesthetic
+Luxury beverage branding
+Minimal but visually rich
+Smooth animations
+Scroll-based storytelling
+Large product visuals
+Elegant typography
+Soft gradients
+High-end lifestyle photography
+Purple-focused identity
+Color Palette:
+Primary:
+#6D3FD1
+#8F5BFF
+#B58CFF
+Secondary:
+#F7F3FF
+#FFFFFF
+#1A102B
+Accent:
+Soft lavender
+Deep royal purple
+Cream white
+Website Type:
+Static website only
+No ecommerce
+No add-to-cart
+No checkout
+No account pages
+No login
+No product purchasing
+Navigation:
+Home
+Products
+Why Ube
+Our Story
+FAQ
+Contact
+Sticky transparent navbar.
+SECTION 1 — HERO SECTION
+Full-screen premium hero.
+Background:
+Luxury purple gradient with floating Ube-inspired elements.
+Left Side:
+Headline:
+Meet The Future Of Purple Beverages
+Subheadline:
+Premium functional drinks powered by Ube — a naturally vibrant superfood known for its smooth flavor, antioxidant benefits, and unforgettable color.
+Buttons:
+Explore Drinks
+Why Ube?
+Right Side:
+Large floating product cans and drinks.
+Visuals:
+Purple Ube Latte
+Purple Matcha Latte
+Purple Cold Brew
+Animations:
+Parallax movement
+Floating effects
+Smooth fade-ins
+SECTION 2 — TRUST / SOCIAL PROOF
+Headline:
+The Next Global Beverage Movement
+Show:
+Premium branding icons
+Future retail partners placeholders
+Community metrics
+Example:
+10+ Product Concepts
+3 Founders
+1 Mission
+Own The Purple
+SECTION 3 — PRODUCT SHOWCASE
+Headline:
+A New Category Of Functional Drinks
+Large premium product cards.
+Products:
+Purple Ube Latte
+Creamy, smooth, naturally vibrant.
+Purple Matcha Latte
+Matcha meets Ube.
+Purple Cold Brew
+Coffee reimagined.
+Purple Smoothies
+Daily wellness ritual.
+Purple Milkshakes
+Indulgence without compromise.
+RTD Purple Cans
+Future retail product line.
+Cards should have:
+Product image
+Product title
+Short description
+Hover animation
+SECTION 4 — WHY UBE
+Split section.
+Left:
+Large Ube image.
+Right:
+Headline:
+What Makes Ube Different?
+Benefits:
+Rich in antioxidants
+Naturally vibrant purple color
+Smooth vanilla-like flavor
+Unique superfood ingredient
+Strong cultural heritage
+Modern wellness appeal
+Luxury infographic style.
+SECTION 5 — CATEGORY CREATION STORY
+Headline:
+From Matcha To Ube
+Timeline storytelling section.
+Step 1:
+Matcha became a global movement.
+Step 2:
+Consumers seek healthier alternatives.
+Step 3:
+Ube remains largely untapped.
+Step 4:
+UBELLA creates the purple beverage category.
+Visual timeline with premium animations.
+SECTION 6 — BRAND MISSION
+Large statement section.
+Headline:
+We're Not Building A Drink.
+We're Building A Category.
+Text:
+UBELLA exists to make Ube as recognizable globally as matcha is today. Through beverages, culture, storytelling, and community, we are creating the home of purple beverage culture.
+Large cinematic background.
+SECTION 7 — LIFESTYLE GALLERY
+Instagram-inspired grid.
+Show:
+Purple drinks
+Café aesthetics
+Gen Z lifestyle
+Wellness moments
+Modern workspaces
+Social gatherings
+Masonry layout.
+Hover animations.
+SECTION 8 — OUR STORY
+Headline:
+Why We Started UBELLA
+Story:
+We saw a beverage industry filled with repetitive flavors and incremental innovation. While ingredients like matcha transformed into global lifestyle movements, Ube remained largely undiscovered outside a few markets. We created UBELLA to introduce consumers to something healthier, more memorable, and visually iconic.
+SECTION 9 — FAQ
+Accordion layout.
+Questions:
+What is Ube?
+What does Ube taste like?
+Is Ube healthy?
+Does Ube contain caffeine?
+What makes UBELLA different?
+When will products launch?
+SECTION 10 — CONTACT
+Headline:
+Let's Build The Purple Future
+Fields:
+Name
+Email
+Message
+Button:
+Get In Touch
+Social Links:
+Instagram
+TikTok
+LinkedIn
+SECTION 11 — FOOTER
+Logo:
+UBELLA
+Tagline:
+Own The Purple.
+Links:
+Products
+Why Ube
+Story
+FAQ
+Contact
+Copyright:
+© 2026 UBELLA. All Rights Reserved.
+TECHNICAL REQUIREMENTS:
+Single-page website
+Responsive mobile-first design
+HTML, Tailwind CSS, JavaScript
+Smooth scrolling
+Framer Motion style animations
+SEO optimized
+Fast loading
+Premium transitions
+Glassmorphism effects
+Scroll reveal animations
+Luxury product-brand aesthetic
+The final result should feel like a mix between:
+PerfectTed
+Apple
+Oatly
+Liquid Death
+Erewhon
+A premium venture-backed consumer startup
+The website should make visitors feel that UBELLA is creating the next global beverage movement around Ube.   make website for this and see refernce images and logos for theme and set it properly in website 
